@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
   </div>
 
-
 <h3 align="center">Full Stack Uber Clone</h3>
 
 </div>
@@ -90,6 +89,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/oviran/Ryde-Uber-Clone-.git
+cd uber
 ```
 
 **Installation**
